@@ -9,3 +9,4 @@ class FillerText extends React.Component {
     )
   }
 }
+export default
